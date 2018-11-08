@@ -1,4 +1,4 @@
 <template lang="pug">
   .about
-    h1 change text
+    h1 新機能追加（バグあり）
 </template>
