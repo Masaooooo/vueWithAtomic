@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5944e0242a1e2bff47cf69217750899e.js"
+  "/precache-manifest.8490e9a0a570753550128c33f74b2228.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-atomic"});
