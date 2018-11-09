@@ -7,7 +7,7 @@
       router-link(
         to="/about"
       ) About
-    p 機能を追加
+    p 機能を追加 リリースの作業
     router-view
 </template>
 
