@@ -7,7 +7,7 @@
       router-link(
         to="/about"
       ) About
-    p test
+    p test test
     router-view
 </template>
 
